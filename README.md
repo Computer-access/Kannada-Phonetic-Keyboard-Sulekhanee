@@ -2,8 +2,7 @@
 The phonetic keyboard to typing Kannada in any application.
 ## Introduction
 
-The Kannada Phonetic Keyboard Sulekhanee is a keyboard layout designed to enhance
-Kannada typing speed and ease of use across various applications.
+The Kannada Phonetic Keyboard Sulekhanee, developed by visually impaired individuals, is a keyboard layout designed to enhance Kannada typing speed and ease of use across various applications. This innovative design makes Kannada computing more accessible for everyone, especially those with visual impairments.
 
 ### Benefits
 
@@ -16,7 +15,7 @@ This keyboard layout is designed for easy access and functionality on various sy
 ### Development Background
 The Sulekhanee keyboard addresses limitations found in the Microsoft Keyboard Layout Creator.
 While the Creator offers some level of phonetic mapping, it may not be as optimized as the Nudi keyboard.
-However, the Nudi application itself faces compatibility issues with certain software.
+However, the Nudi application itself faces compatibility issues with certain software with screen readers softwares like NVDA.
 ### Future Enhancements
 The Sulekhanee keyboard layout is under continuous development. We actively seek user feedback to implement modifications that further improve user convenience and typing experience.
 
@@ -24,7 +23,7 @@ The Sulekhanee keyboard layout is under continuous development. We actively seek
 
 If you want to install this keyboard layout on your computer, follow these steps:
 
-1. Download the Keyboard Layout: Download the zip file containing the keyboard layout from this link: [Download Kannada Phonetic Keyboard](https://github.com/narayan-b-raikar/Kannada-Phonetic-Keyboard-Sulekhanee/releases/download/V2.0.0/Kannada.Phonetic.Keyboard.V2.0.zip)
+1. Download the Keyboard Layout: Download the zip file containing the keyboard layout from this link: [Download Kannada Phonetic Keyboard sulekhanee](https://github.com/Computer-access/Kannada-Phonetic-Keyboard-Sulekhanee/files/14598180/kannada-phonetic-keyboard-sulekhanee.zip)
 
 2. Add Kannada Language (if necessary): Ensure Kannada language is added in your Windows' Languages settings if it's not already included.
 
@@ -32,14 +31,14 @@ If you want to install this keyboard layout on your computer, follow these steps
 
 4. Run the Setup: Locate the extracted folder and double-click the "Setup" icon to initiate the installation process.
 
-5. Bypass Windows SmartScreen (if prompted): You might encounter a Windows SmartScreen warning dialog. Since this layout is virus-free, you can safely click on "Learn More" followed by "Run Anyway" to proceed.
+5. Bypass Windows Smart Screen (if prompted): You might encounter a Windows SmartScreen warning dialog. Since this layout is virus-free, you can safely click on "Learn More" followed by "Run Anyway" to proceed.
 
 6. Complete Installation: The installation will be completed, making the Kannada keyboard available for use across your system. Click "Close" to exit the installation dialog.
 
 ## How to Use the Keyboard
 
 To activate the Kannada Phonetic Keyboard Sulekhanee whenever you want to type in Kannada, simply press the Alt+Shift or Windows+Space key combination. To switch back to English or another language, press the same key combination again.
-For reference on using this keyboard layout, refer the [Kannada phonetic keyboard sulekhanee manual](https://github.com/narayan-b-raikar/Kannada-Phonetic-Keyboard-Sulekhanee/blob/Main/Manual.md).
+For reference on using this keyboard layout, refer the [Kannada phonetic keyboard sulekhanee manual](Manual.md)
 
 ### Feedback and Suggestions
 We welcome your feedback and suggestions for improving the Kannada Phonetic Keyboard Sulekhanee. 
@@ -64,11 +63,11 @@ This section provides external links to resources that you might find helpful if
 
 4. Senseful Solutions: How to Fix Keyboard Shortcuts in KLC (e.g. Ctrl+S): https://archive.org/details/tucows_327616_KeyTweak
 
-5. Virtual Key Codes (Windows CE 5.0): https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes (Archived by Web Archive)
+5. Virtual Key Codes (Windows CE 5.0): https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes)
  ## Contributors
 
 * [Dr. Narayan B Raikar](narayan-b-raikar)
-* [Srinivasmurti](smbgsrini)
+* [Srinivasamurti B. G.](smbgsrini)
 * [Vilesh Bandekar](VileshBandekar)
 
 #### License
