@@ -23,7 +23,7 @@ The Sulekhanee keyboard layout is under continuous development. We actively seek
 
 If you want to install this keyboard layout on your computer, follow these steps:
 
-1. Download the Keyboard Layout: Download the zip file containing the keyboard layout from this link: [Download Kannada Phonetic Keyboard sulekhanee](https://github.com/Computer-access/Kannada-Phonetic-Keyboard-Sulekhanee/files/14598180/kannada-phonetic-keyboard-sulekhanee.zip)
+1. Download the Keyboard Layout: Download the zip file containing the keyboard layout from this link: [Download Kannada Phonetic Keyboard sulekhanee](https://github.com/Computer-access/Kannada-Phonetic-Keyboard-Sulekhanee/files/14635334/Kannada-Phonetic-Keyboard-V2.0.zip)
 
 2. Add Kannada Language (if necessary): Ensure Kannada language is added in your Windows' Languages settings if it's not already included.
 
